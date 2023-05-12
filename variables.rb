@@ -7,4 +7,5 @@ age = 33
 days_left_at_job = 20
 brother_age = 37
 cat_age = 9.5
+amount = 8889403.34
 student = true 
