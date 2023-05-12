@@ -11,3 +11,13 @@ amount = 8889403.34
 student = true 
 happy = true
 ready_for_bed = false
+
+# Changing variable practice#
+
+ready_for_bed = true
+husband_name = "Travy"
+email = "kbug19@gmail.com"
+
+puts email
+puts husband_name
+puts ready_for_bed
