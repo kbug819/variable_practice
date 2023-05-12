@@ -1,7 +1,10 @@
+# NOTES - Variable practice #
 name = "Kaylee Janes"
 email = "kaylee.j.janes@gmail.com"
 husband_name = "Travis"
 cat_name = "Neela"
 age = 33
+days_left_at_job = 20
+brother_age = 37
 cat_age = 9.5
 student = true 
