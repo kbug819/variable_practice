@@ -9,3 +9,5 @@ brother_age = 37
 cat_age = 9.5
 amount = 8889403.34
 student = true 
+happy = true
+ready_for_bed = false
